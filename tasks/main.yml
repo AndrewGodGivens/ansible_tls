@@ -46,7 +46,7 @@
   loop: "{{ tls_data }}"
   loop_control:
     loop_var: tls
-  when: 
+  when:
     - tls.self_signed
     - tls.local_src_key == false
     - tls.local_src_cert == false

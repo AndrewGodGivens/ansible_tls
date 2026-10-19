@@ -1,3 +1,7 @@
+## Credits
+
+Based on the role by [sorrowless](https://github.com/sorrowless).
+
 # sbog/tls
 
 [![Build Status](https://travis-ci.com/sorrowless/ansible_tls.svg?branch=master)](https://travis-ci.com/sorrowless/ansible_tls)
